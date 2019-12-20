@@ -18,7 +18,7 @@ Con esto se pide armar algunos casos de tests:
 Verificar que ante un mensaje de recepción, en la base de datos se impacte correctamente el estado 2.
 Verificar que ante un mensaje de concertacion de orden, en la base de datos se impacte correctamente el estado 3 o 4.
 
-
+Al ser tests, estos escenarios deben ser repetibles. Es decir, se debe reiniciar el ambiente de prueba ante cada ejecución.
 
 Queda a discreción del postulante si desea realizar otros tipos de prueba.
 
